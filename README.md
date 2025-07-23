@@ -18,7 +18,7 @@
 
 ## 스크린샷
 
-<img src="screenshot.png" width="400" alt="Gapless GUI Player Screenshot">
+<img src="screenshot.png" width="200" alt="Gapless GUI Player Screenshot">
 
 ---
 
@@ -41,6 +41,6 @@ python gapless_gui_player.py
 ```
 
 ### 사용방법
-1. 파일 열기 선택
+1. 파일 선택
 2. 사용할 *.wav 파일 선택
-3. 재생
+3. 재생 시작
