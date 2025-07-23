@@ -18,7 +18,7 @@
 
 ## 스크린샷
 
-<img src="screenshot.png" width="200" alt="Gapless GUI Player Screenshot">
+<img src="screenshot.png" width="300" alt="Gapless GUI Player Screenshot">
 
 ---
 
