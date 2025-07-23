@@ -39,3 +39,8 @@ pip install -r requirements.txt
 ```bash
 python gapless_gui_player.py
 ```
+
+### 사용방법
+1. 파일 열기 선택
+2. 사용할 *.wav 파일 선택
+3. 재생
